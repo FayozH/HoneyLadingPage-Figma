@@ -1,0 +1,261 @@
+
+body{
+    width: 1600px;
+    height: 3849px;
+    background: #FFFFFF;
+    margin: auto;
+    border: 1px solid #faad55;
+}
+  header{
+    margin-left: 215px;
+    width:1400px;
+    height: 98px; 
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+ul{
+    display: flex;  
+    margin-left: 490px;
+}
+li{
+    list-style: none;
+    width: 100px;
+    height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;   
+    color: #000000;   
+}
+li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+li a:hover{
+    color: #faad55;
+}
+.optic:hover{
+    opacity: 0.5;
+}
+section{
+    margin: auto;
+    width: 1500px;
+    height: 865px;
+    left: 50px;
+    top: 100px;
+    background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+    border-radius: 30px;
+}
+.section_buttomm{
+    display: inline-block;
+    margin: 620px 151px;
+}
+button{
+    margin-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-size: 18px; 
+    width: 209px;
+    height: 65px;
+    font-weight: bold;
+    border: 2px solid #000000;   
+    background:  #faa6461e;   
+}
+.buttom_buynow{
+    width: 180px;
+    height: 65px;
+    background: #000000; 
+    color: #FFFFFF; 
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+button:hover { 
+    background-color: #000000;
+    color: #fff7f7;
+}
+.buttom_buynow:hover {
+    background-color: #faad5500;
+    color: rgb(0, 0, 0);
+} 
+.ourtrusted{
+    width: 427px;
+    height: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 160%;
+}
+.optik{
+    display: flex;
+    justify-content: space-between;
+    width: 1146.34px;
+    height: 37.88px;
+    margin-top: 50px;
+}
+nav{
+    margin: auto;
+    width: 1146.34px;
+    margin-top: 130px;
+}
+aside{
+    width: 1406.82px;
+    height: 784.26px;
+    display: flex;
+    margin-top: 131px;
+}
+.honey_created{
+    width: 548px;
+    height: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 145%;
+}
+.honey_is_one{
+    width: 516px;
+    height: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 160%;
+    margin-top: 30px;
+    color: rgb(97, 94, 94);
+}
+.Learem_more{
+    width: 184px;
+    height: 59px;
+    background: #E68311;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 160%;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 0px;
+    border: none;
+}
+.box_honey{
+    margin-top: 205px;
+    margin-left: 32px;
+}
+.powerim{
+    margin-left: 111px;
+    margin-top: 102px;
+}
+.douse_your{
+    margin-top: 65px;
+}
+.our_produkt{
+    margin: auto;
+    width: 1146px;
+    height: 427px;
+    margin-top: 101px;
+}
+.sell_all{
+    width: 1145px;
+    display: flex;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+.produc{
+    width: 285px;
+    height: 72px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+}
+.sell_alll a{
+    width: 60px;
+    height: 29px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #E58211;
+    display: inline-block;
+    margin-top: 19px;
+}
+.sell_alll a:hover{
+    color: black;
+}
+.ecal_basswod{
+    width: 1146px;
+    display: flex;  
+}
+.ec-bas{
+    width: 558px;
+    height: 305px;
+    background: #f0b46f34;
+   display: flex;   
+}
+.bas-ec{
+    margin-left: 30px;
+}
+.EucalyptusHoniy1{
+    width: 262px;
+    height: 39px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    color: black;
+}
+.it_has{
+    width: 302px;
+    height: 78px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    color: #524c4c;
+    margin-top: 20px;
+}
+.buymow_buttun{
+    width: 140px;
+    height: 49px;
+    border: 1.5px solid #E58211;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: #E58211;
+    margin-left: 0px;
+    margin-top: 23px;
+}
+.buymow_buttun:hover{
+    background-color:#E58211 ;
+}
+.dis_mar{
+    display: flex;
+    margin-left: 50px;
+}
+footer{
+    margin: auto;
+    margin-top:100px;
+    width: 1600px;
+    height: 137px;
+    background: linear-gradient(76.02deg, #FF9D2D 1.66%, #FFD877 93.21%);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.hone_food{
+    width: 269px;
+    height: 47px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    color: #665f5f;
+}
+
+ 
